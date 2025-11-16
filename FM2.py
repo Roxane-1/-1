@@ -1,1 +1,1 @@
-print("today is b   11.16")
+print("today is b 11.16")
